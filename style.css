@@ -1,0 +1,22 @@
+body {
+  padding: 30px 20%;
+  font-family: 'Nunito', sans-serif;
+}
+
+h1 {
+  font-family: 'Libre Baskerville', serif;
+}
+
+img {
+  margin: 20px 0;
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+aside {
+  float: right;
+  width: 33%;
+  margin: 0 20px;
+  padding: 20px;
+  background: lightblue;
+}
